@@ -176,7 +176,7 @@ And now, you should be able to access your application via http://localhost:5000
 - To pull the image
 ```
 docker pull ghcr.io/waldirio/cacert-webui:latest
-
+```
 
 
 #### References:
